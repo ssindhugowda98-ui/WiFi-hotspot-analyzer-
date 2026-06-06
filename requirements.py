@@ -1,8 +1,8 @@
-streamlit
-pandas
-numpy
-plotly
-pymongo
-scikit-learn
-joblib
-dnspython
+streamlit>=1.45.0
+pandas>=2.2.0
+numpy>=1.26.0
+plotly>=6.0.0
+pymongo[srv]>=4.8.0
+scikit-learn>=1.5.0
+joblib>=1.4.0
+dnspython>=2.6.0
