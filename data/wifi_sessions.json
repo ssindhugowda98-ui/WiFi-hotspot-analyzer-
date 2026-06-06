@@ -1,0 +1,7 @@
+session_id
+node_id
+mac_address_hashed
+bytes_transferred
+connection_duration_secs
+coordinates
+timestamp
